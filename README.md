@@ -1,15 +1,18 @@
 ### Bienvenido a mi perfil! 🦁
 
+¡Hola! Soy Diegxs, un programador principiante de México, que se entusiasma por conocer cosas nuevas! 
 
+# 🛠️ Lenguajes Conocidos por mi: 
 
-Here are some ideas to get you started:
+- 🏷️ JavaScript
+- 🏷️ HTML
+- 🏷️ Proximamente css
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Biografía:
+
+- México
+- 15 Años
+- Español, Inglés, Francés, Poco aléman
+
+# Vivir en LatinoAmerica no es simbolo de que no puedas hacer nada. Vive con eso! 
+
