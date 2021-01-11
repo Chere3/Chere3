@@ -14,5 +14,9 @@
 - 15 Años
 - Español, Inglés, Francés,poco aleman 
 
+### Redes sociales: 
+
+-(Mi discord)[https://discordhub.com/profile/705580144936484915]
+
 ### Vivir en Latinoamerica no es signo para quejarse todo el rato.
 
