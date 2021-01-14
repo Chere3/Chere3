@@ -6,7 +6,7 @@
 
 - 🏷️ JavaScript
 - 🏷️ HTML
-- 🏷️ Proximamente css
+- 🏷️ CSS (fase de desarrollo y aprendizaje)
 
 ### Biografía:
 
