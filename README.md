@@ -24,6 +24,6 @@ Hey~ Im Diegxs, a beginning programmer, who loves to learn new things.
 - [My twitter](https://twitter.com/DiegxsDEV)
 - [Discord server](https://discord.com/invite/8eSnEeDHYq)
 
-### > No matter where you live, you can get ahead.
+### >No matter where you live, you can get ahead.
 
 <img src="https://media.discordapp.net/attachments/770436802208858112/801602144913457172/XD.gif" width="1000" height="3">
