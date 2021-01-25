@@ -1,4 +1,4 @@
-<img src: "https://media.discordapp.net/attachments/783935531767562250/798393753361842216/DD_foto.png?width=1260&height=420" height: 1500 width: 500></img>
+<img src="https://media.discordapp.net/attachments/783935531767562250/798393753361842216/DD_foto.png?width=1260&height=420" width="1500" height="500">
 
 # Welcome to my profile! 🦁
 
