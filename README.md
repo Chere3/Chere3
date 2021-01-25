@@ -1,3 +1,5 @@
+<img src: "https://media.discordapp.net/attachments/783935531767562250/798393753361842216/DD_foto.png?width=1260&height=420" height: 1500 width: 500></img>
+
 # Welcome to my profile! 🦁
 
 Hey~ Im Diegxs, a beginning programmer, who loves to learn new things.
