@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/783935531767562250/798393753361842216/DD_foto.png?width=1260&height=420" width="300" height="500">
+<img src="https://media.discordapp.net/attachments/770436802208858112/801602144913457172/XD.gif" width="1000" height="3">
 
 # Welcome to my profile! 🦁
 
@@ -26,3 +26,4 @@ Hey~ Im Diegxs, a beginning programmer, who loves to learn new things.
 
 ### > No matter where you live, you can get ahead.
 
+<img src="https://media.discordapp.net/attachments/770436802208858112/801602144913457172/XD.gif" width="1000" height="3">
