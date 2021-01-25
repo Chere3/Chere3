@@ -16,9 +16,9 @@ Hey~ Im Diegxs, a beginning programmer, who loves to learn new things.
 
 - Spanish, english, french, a little bit of german. 
 
-### Redes sociales: 
+### Social networks: 
 
-- [Mi Discord](https://discordhub.com/profile/705580144936484915)
+- [My discord](https://discordhub.com/profile/705580144936484915)
 
 ### No matter where you live, you can get ahead.
 
