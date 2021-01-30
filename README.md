@@ -18,12 +18,14 @@ Hey~ Im Diegxs, a beginning programmer, who loves to learn new things.
 
 - Spanish, english, french, a little bit of german. 
 
+### Stats
+
+![Diegxs GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegxs&show_icons=true&theme=radical)
+
 ### Social networks: 
 
 <a href="https://discord.com/users/705580144936484915" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="y" height="30" width="40" /></a>
 </p>
-- [My twitter](https://twitter.com/DiegxsDEV)
-- [Discord server](https://discord.com/invite/8eSnEeDHYq)
 
 ### >No matter where you live, you can get ahead.
 
