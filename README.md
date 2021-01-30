@@ -20,11 +20,11 @@ Hey~ Im Diegxs, a beginning programmer, who loves to learn new things.
 
 ### Stats
 
-![Diegxs GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegxs&show_icons=true&theme=radical)
+[![Diegxs GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegxs&show_icons=true&theme=radical)](https://www.youtube.com/channel/UCmL0DXnwaQTm50SMCK-in6Q)
 
 ### Languages
 
-[![Languages i use:](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegxs)](https://github.com/Diegxs/github-readme-stats)
+[![Languages i use:](https://github-readme-stats.vercel.app/api/top-langs/?username=Diegxs)](https://www.youtube.com/channel/UCmL0DXnwaQTm50SMCK-in6Q)
 
 ### Social networks: 
 
