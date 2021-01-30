@@ -28,8 +28,9 @@ Hey~ Im Diegxs, a beginning programmer, who loves to learn new things.
 
 ### Social networks: 
 
-<a href="https://discord.com/users/705580144936484915" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="y" height="30" width="40" /></a>
-</p>
+<a href="https://discord.com/users/705580144936484915" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111370.svg?token=exp=1612039313~hmac=5c37971d79df94282823e87ceda9e2cd" alt="y" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/_diegxs_/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1612039790~hmac=a2af583e382c22d9ce97a92db338a162" alt="y" height="30" width="40" /></a>
 
 
 <img src="https://media.discordapp.net/attachments/770436802208858112/801602144913457172/XD.gif" width="1000" height="3">
