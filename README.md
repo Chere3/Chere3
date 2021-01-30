@@ -20,7 +20,8 @@ Hey~ Im Diegxs, a beginning programmer, who loves to learn new things.
 
 ### Social networks: 
 
-- [My discord](https://discordhub.com/profile/705580144936484915)
+<a href="https://discord.com/users/705580144936484915" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="y" height="30" width="40" /></a>
+</p>
 - [My twitter](https://twitter.com/DiegxsDEV)
 - [Discord server](https://discord.com/invite/8eSnEeDHYq)
 
