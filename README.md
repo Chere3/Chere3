@@ -10,12 +10,6 @@ Hey~ Im Diegxs, a beginning programmer, who loves to learn new things.
 - 🏷️ HTML
 - 🏷️ CSS
 
-### Biography:
-
-- México
-
-
-- Spanish, english, french, a little bit of german. 
 
 ### Stats
 
