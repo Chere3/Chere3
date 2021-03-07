@@ -1,14 +1,6 @@
-<img src="https://media.discordapp.net/attachments/770436802208858112/801602144913457172/XD.gif" width="1000" height="3">
 
-# Welcome to my profile! 🦁
 
-Hey~ Im Diegxs, a beginning programmer, who loves to learn new things.
-
-### Programming languages that I use 🛠️
-
-- 🏷️ JavaScript
-- 🏷️ HTML
-- 🏷️ CSS
+# Diegxs.
 
 
 ### Stats
@@ -19,4 +11,4 @@ Hey~ Im Diegxs, a beginning programmer, who loves to learn new things.
 
 <a href="https://discord.com/users/705580144936484915" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-vector-download-0.png" alt="y" width="40" /></a> <a href="https://www.instagram.com/_diegxs_/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" alt="y" width="40" /></a><a href="https://twitter.com/DiegxsDEV" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="y" width="40" /></a><a href="https://www.youtube.com/channel/UCmL0DXnwaQTm50SMCK-in6Q" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/youtube-vector-logo-png-9.png" alt="y" width="40" /></a>
 
-<img src="https://media.discordapp.net/attachments/770436802208858112/801602144913457172/XD.gif" width="1000" height="3">
+
