@@ -14,7 +14,6 @@ Hey~ Im Diegxs, a beginning programmer, who loves to learn new things.
 
 - México
 
-- 15 Years
 
 - Spanish, english, french, a little bit of german. 
 
