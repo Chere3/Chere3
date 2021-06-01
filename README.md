@@ -26,4 +26,4 @@
 
 ### <img src= "https://image.flaticon.com/icons/png/512/25/25231.png" height= "19"> GitHub stats:
 
-<a href="https://wakatime.com/@Diegxs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Diegxs&show_icons=true&theme=dark" height="200"></a>
+![Metrics](https://metrics.lecoq.io/Diegxs?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FMexico_City)
