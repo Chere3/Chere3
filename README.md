@@ -22,7 +22,6 @@
 
 ### <img src= "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/273/information_2139-fe0f.png" height= "19"> Stats:
 
-<a href="https://wakatime.com/@Diegxs"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Diegxs" width= "455"></a>
 
 ### <a href="https://wakatime.com/@Diegxs"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Diegxs&layout=compact&text_color=FFFFFF&bg_color=121112&hide_progress=false"/></a>
 
