@@ -1,8 +1,8 @@
 
 
-# Diegxs.
+# Im cheree
 
-## About Diegxs.
+## About Cheree.
 
 ### <img src= "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/open-book_1f4d6.png" height= "25"> I know:
 - <img src= "https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height= "15" width= "15"> <a href= "https://es.wikipedia.org/wiki/JavaScript">`Javascript` </a> 
