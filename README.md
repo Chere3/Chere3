@@ -1,38 +1,27 @@
-
-
-# Im cheree
-
-## About Cheree.
-
-### <img src= "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/open-book_1f4d6.png" height= "25"> I know:
-- <img src= "https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height= "15" width= "15"> <a href= "https://es.wikipedia.org/wiki/JavaScript">`Javascript` </a> 
-
-- <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" height= "19" width= "15"> <a href= "https://es.wikipedia.org/wiki/CSS">`CSS` </a> 
+<div align="center"><a href= "https://discord.com/users/852588734104469535"><img src= "https://i.ibb.co/Wsrx7mD/banner-github.png" title= "Cheree banner">
+</img></a><br><br><br><br><br><h3></h3><img src="https://cdn.discordapp.com/emojis/843918421153808414.png?v=1" height= "20"></img><img src="https://cdn.discordapp.com/emojis/862900168152186891.gif?v=1" height= "20"></img>
+ <code>𝙸'𝚖 𝚓𝚞𝚜𝚝 𝚊 𝚏𝚞𝚛𝚛𝚢 𝚋𝚘𝚢. 𝙸'𝚖 𝚜𝚝𝚒𝚕𝚕 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚒𝚗𝚐 𝚖𝚢 𝚑𝚘𝚋𝚋𝚒𝚎𝚜</code>
+ <img src="https://cdn.discordapp.com/emojis/862900168152186891.gif?v=1" height= "20"></img> <img src="https://cdn.discordapp.com/emojis/843918421153808414.png?v=1" height= "20"></img>
+ <br><br><br><br><br><br>
+ <h3></h3>
+ </div>
  
-- <img src= "https://cdn.worldvectorlogo.com/logos/html5.svg" height= "19" width= "15"> <a href= "https://es.wikipedia.org/wiki/HTML">`HTML (is not a language i know)` </a> 
-
-- <img src= "https://cdn.worldvectorlogo.com/logos/python-5.svg" height= "19" width= "15"> <a href= "https://es.wikipedia.org/wiki/Python">`Phyton` </a>
-
-- <img src= "https://iconape.com/wp-content/png_logo_vector/typescript.png" height= "19" width= "15"> <a href= "https://es.wikipedia.org/wiki/TypeScript">`Typescript` </a>
-
-- <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" height= "19" width= "15"> <a href= "https://es.wikipedia.org/wiki/Bash">`Bash` </a>
-
-- <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" height= "19" width= "15"> <a href= "https://es.wikipedia.org/wiki/Sass"> `Sass` </a>
-
-- <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1150px-React.svg.png" height= "19" width= "15"> <a href= "https://es.wikipedia.org/wiki/React"> `ReactJS (soon)` </a>
-
-### <img src= "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/118/brain_1f9e0.png" height= "19"> Hobbys:
-
-- `Take photos`
-
-- `Play piano`
-
-- `Edit photos`
-
-- `Learn a lot of new things`
+<div align="center">
+ <h3>
+  ɪ ᴋɴᴏᴡ ᴛᴏ ᴄᴏᴅᴇ:
+ </h3>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height= "35" title= "Javascript"></a> <a href="https://www.typescriptlang.org/"><img src= "https://iconape.com/wp-content/png_logo_vector/typescript.png" height= "35" title= "Typescript"></a> <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src= "https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/css.svg" height= "35" title= "CSS"></a> <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height= "35" title= "HTML"></a> <a href="https://sass-lang.com/"><img src= "https://cdn.freelogovectors.net/wp-content/uploads/2019/02/sass-logo.png" height= "35" title= "SASS"></a> <a href="https://en.wikipedia.org/wiki/BASIC#:~:text=BASIC%20(Beginners'%20All%2Dpurpose,at%20Dartmouth%20College%20in%201964."><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" height= "35" title= "BASIC"></a> <a href="https://markdown.es/"><img src= "https://visualpharm.com/assets/81/Markdown-595b40b75ba036ed117d9f53.svg" height= "35" title= "MarkDown"></a> <a href="https://www.python.org/"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height= "35" title= "Phyton"></a><br><br><br><br><br><br><h3></h3>
+</div>
 
 
-### <img src= "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/273/information_2139-fe0f.png" height= "19"> Stats:
-
-
-### <a href="https://wakatime.com/@Diegxs"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Diegxs&layout=compact&text_color=FFFFFF&bg_color=121112&hide_progress=false"/></a>
+<div align="center">
+ <h3>
+  ᴇꜱᴛᴀᴅɪꜱᴛɪᴄꜱ:
+ </h3>
+ <img src= https://github-readme-stats.vercel.app/api?username=Chere3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true></img>
+<br><br><br><br><h3></h3>
+ <h3>
+  ᴍʏ ᴄᴜʀʀᴇɴᴛ ᴘʀᴏᴊᴇᴄᴛꜱ:
+  </h3>
+  <a href= "https://github.com/Chere3/wolfybot"><img src=https://github-readme-stats.vercel.app/api/pin/?username=Chere3&repo=wolfybot title=WolfyBot></img>  <a href= "https://github.com/Chere3/jasperbot"><img src=https://github-readme-stats.vercel.app/api/pin/?username=Chere3&repo=jasperbot title=JasperBot></img> <a href= "https://github.com/Chere3/webpages"><img src=https://github-readme-stats.vercel.app/api/pin/?username=Chere3&repo=webpages title=Paginas-webs></img>
+</div>
