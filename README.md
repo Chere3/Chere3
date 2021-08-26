@@ -23,5 +23,5 @@
  <h3>
   ᴍʏ ᴄᴜʀʀᴇɴᴛ ᴘʀᴏᴊᴇᴄᴛꜱ:
   </h3>
-  <a href= "https://github.com/Chere3/wolfo"><img src=https://github-readme-stats.vercel.app/api/pin/?username=Chere3&repo=wolfybot title=WolfyBot></img>  <a href= "https://github.com/Chere3/jasperbot"><img src=https://github-readme-stats.vercel.app/api/pin/?username=Chere3&repo=jasperbot title=JasperBot></img> <a href= "https://github.com/Chere3/webpages"><img src=https://github-readme-stats.vercel.app/api/pin/?username=Chere3&repo=webpages title=Paginas-webs></img>
+  <a href= "https://github.com/Chere3/wolfo"><img src=https://github-readme-stats.vercel.app/api/pin/?username=Chere3&repo=wolfo title=Wolfo></img>  <a href= "https://github.com/Chere3/jasperbot"><img src=https://github-readme-stats.vercel.app/api/pin/?username=Chere3&repo=jasperbot title=JasperBot></img> <a href= "https://github.com/Chere3/webpages"><img src=https://github-readme-stats.vercel.app/api/pin/?username=Chere3&repo=webpages title=Paginas-webs></img>
 </div>
