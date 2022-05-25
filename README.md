@@ -31,3 +31,5 @@
 - MongoDB
 - SQL
 - JSON
+
+https://lanyard-profile-readme.vercel.app/api/852588734104469535?animated=true
