@@ -33,5 +33,5 @@
 - JSON
 
 
-# My discord:
+### My discord:
 [![Github Stats](https://lanyard-profile-readme.vercel.app/api/852588734104469535?animated=true)](https://discord.com/users/852588734104469535)
