@@ -4,7 +4,7 @@
 ---
 
 ![Languages Stack](https://skillicons.dev/icons?i=cpp,css,go,html,js,ts,md,py,rust,sass,bash,java&perline=8)
-</div>
+
 <details>
   <summary>🔎 More info</summary>
 <details>
@@ -20,3 +20,5 @@
 
 </details>
 </details>
+
+</div>
