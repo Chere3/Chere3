@@ -51,4 +51,13 @@ I like shipping practical solutions that connect **technical quality** with **bu
 - [Zephyr](https://github.com/Chere3/Zephyr)
 
 ## 🛠️ Core stack
-`TypeScript` · `Python` · `JavaScript` · `Java` · `Power Platform` · `Power BI` · `GCP` · `Docker` · `Automation` · `AI Systems`
+<div align="left">
+
+![Core Stack](https://skillicons.dev/icons?i=ts,js,py,java,docker,gcp,bash,git,github,linux&perline=10)
+
+</div>
+
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AI Systems](https://img.shields.io/badge/AI%20Systems-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white)
