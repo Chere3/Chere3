@@ -27,6 +27,12 @@ I like shipping practical solutions that connect **technical quality** with **bu
 - **Nexo** — school administration system with auth, schedules, notifications, and cloud rollout
 - **Trew** — active software project in my workspace
 
+### Portfolio maintenance protocol
+- Re-validate all repository links monthly.
+- Ensure each featured repo has: README, setup steps, roadmap, and recent activity.
+- Rotate featured projects when strategic focus changes.
+- Track profile improvements in [`ROADMAP.md`](./ROADMAP.md).
+
 ### All public repositories
 - [aurelia](https://github.com/Chere3/aurelia)
 - [budget-planner](https://github.com/Chere3/budget-planner)
@@ -61,3 +67,6 @@ I like shipping practical solutions that connect **technical quality** with **bu
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![AI Systems](https://img.shields.io/badge/AI%20Systems-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## 🤝 Collaboration
+If you want to collaborate on backend systems, automation, or AI-enabled internal tools, reach out via [LinkedIn](https://www.linkedin.com/in/chere3).
