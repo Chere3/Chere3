@@ -61,3 +61,14 @@ I like shipping practical solutions that connect **technical quality** with **bu
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![AI Systems](https://img.shields.io/badge/AI%20Systems-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## 🧭 Engineering operating principles
+- Ship pragmatic solutions with measurable business impact
+- Design for maintainability (clear docs, reliable scripts, quality gates)
+- Keep architecture explicit (tradeoffs, constraints, migration paths)
+- Treat collaboration as a product: fast feedback, clean PRs, clear ownership
+
+## 🤝 Collaboration
+- **Open to:** backend/AI automation collaborations and technical leadership opportunities
+- **Contact:** [LinkedIn](https://www.linkedin.com/in/chere3)
+- **Portfolio direction:** see [`ROADMAP.md`](./ROADMAP.md)
