@@ -21,12 +21,34 @@ I like shipping practical solutions that connect **technical quality** with **bu
 - Co-led technical execution in an AI startup context, contributing to $1M+ MXN in secured resources/funding
 
 ## 🚀 Projects
-- **Pawsitive** — professional Discord bot platform (Seyfert + Elysia + Astro)  
-  <https://github.com/Chere3/pawsitive>
-- **Synapse** — AI-assisted legal document analysis platform (Cerebras hackathon project)
-- **Nexo** — school administration system with auth, scheduling, notifications, and cloud rollout
-- **Trew** — active software project in my current workspace
-- **Chaptter (Technical Co-Founder work)** — conversational AI product + cloud architecture + CI/CD
+### Featured
+- **Pawsitive** — professional Discord bot platform (Seyfert + Elysia + Astro)
+- **Synapse** — AI-assisted legal document analysis platform
+- **Nexo** — school administration system with auth, schedules, notifications, and cloud rollout
+- **Trew** — active software project in my workspace
+
+### All public repositories
+- [aurelia](https://github.com/Chere3/aurelia)
+- [budget-planner](https://github.com/Chere3/budget-planner)
+- [Casio-theme](https://github.com/Chere3/Casio-theme)
+- [CommandHandlerTs](https://github.com/Chere3/CommandHandlerTs)
+- [discord-helper](https://github.com/Chere3/discord-helper)
+- [dots](https://github.com/Chere3/dots)
+- [dots-nixos](https://github.com/Chere3/dots-nixos)
+- [Everkind](https://github.com/Chere3/Everkind)
+- [hackaton](https://github.com/Chere3/hackaton)
+- [LastFM-RPC](https://github.com/Chere3/LastFM-RPC)
+- [maizteca_analisis](https://github.com/Chere3/maizteca_analisis)
+- [NetflixDataAnalysis](https://github.com/Chere3/NetflixDataAnalysis)
+- [nexo](https://github.com/Chere3/nexo)
+- [notification-daemon](https://github.com/Chere3/notification-daemon)
+- [pawsitive](https://github.com/Chere3/pawsitive)
+- [pye-community-bot](https://github.com/Chere3/pye-community-bot)
+- [rdp](https://github.com/Chere3/rdp)
+- [Synapse](https://github.com/Chere3/Synapse)
+- [trew](https://github.com/Chere3/trew)
+- [tsc_bot](https://github.com/Chere3/tsc_bot)
+- [Zephyr](https://github.com/Chere3/Zephyr)
 
 ## 🛠️ Core stack
 `TypeScript` · `Python` · `JavaScript` · `Java` · `Power Platform` · `Power BI` · `GCP` · `Docker` · `Automation` · `AI Systems`
