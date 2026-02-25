@@ -32,6 +32,7 @@ I like shipping practical solutions that connect **technical quality** with **bu
 - Ensure each featured repo has: README, setup steps, roadmap, and recent activity.
 - Rotate featured projects when strategic focus changes.
 - Track profile improvements in [`ROADMAP.md`](./ROADMAP.md).
+- Enforce profile quality checks via GitHub Actions (`profile-health`: markdown lint + broken link scan).
 
 ### All public repositories
 - [aurelia](https://github.com/Chere3/aurelia)

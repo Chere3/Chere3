@@ -20,4 +20,4 @@ Professional profile roadmap for the `Chere3` GitHub profile repository.
 
 ## Strategic rewrites
 - Move from static README to template + data pipeline for maintainability.
-- Introduce profile quality CI checks (broken links, markdown lint, stale section markers).
+- [x] Introduce profile quality CI checks (broken links, markdown lint, stale section markers).
