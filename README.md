@@ -20,6 +20,17 @@ I like shipping practical solutions that connect **technical quality** with **bu
 - Facilitated agentic AI sessions/workshops for leadership and trainee cohorts
 - Co-led technical execution in an AI startup context, contributing to $1M+ MXN in secured resources/funding
 
+
+## 📌 Professional profile signals
+- **Portfolio hygiene:** each featured repo maintains onboarding + roadmap + CI baseline
+- **Execution cadence:** active pull request flow across backend, automation, and AI projects
+- **Operating style:** product-minded engineering with measurable business outcomes
+
+## 🧭 Current focus
+- Shipping production-grade quality standards across all active repositories
+- Strengthening architecture and contributor onboarding in core projects
+- Expanding AI + automation systems for real operational impact
+
 ## 🚀 Projects
 ### Featured
 - **Pawsitive** — professional Discord bot platform (Seyfert + Elysia + Astro)
@@ -32,6 +43,7 @@ I like shipping practical solutions that connect **technical quality** with **bu
 - Ensure each featured repo has: README, setup steps, roadmap, and recent activity.
 - Rotate featured projects when strategic focus changes.
 - Track profile improvements in [`ROADMAP.md`](./ROADMAP.md).
+- Follow the [Profile maintenance playbook](./MAINTENANCE.md).
 
 ### All public repositories
 - [aurelia](https://github.com/Chere3/aurelia)
