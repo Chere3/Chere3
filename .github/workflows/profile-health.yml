@@ -1,0 +1,25 @@
+name: Profile Health
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 15 * * 1'
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - scripts/validate-profile-links.sh
+      - .github/workflows/profile-health.yml
+  pull_request:
+    paths:
+      - README.md
+      - scripts/validate-profile-links.sh
+      - .github/workflows/profile-health.yml
+
+jobs:
+  validate-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate README links
+        run: ./scripts/validate-profile-links.sh README.md

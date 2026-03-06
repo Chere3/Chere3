@@ -5,6 +5,8 @@
 
 Guadalajara, Mexico · [LinkedIn](https://www.linkedin.com/in/chere3) · [GitHub](https://github.com/Chere3)
 
+[![Profile Health](https://github.com/Chere3/Chere3/actions/workflows/profile-health.yml/badge.svg)](https://github.com/Chere3/Chere3/actions/workflows/profile-health.yml)
+
 </div>
 
 ## 👋 About
@@ -26,6 +28,11 @@ I like shipping practical solutions that connect **technical quality** with **bu
 - **Synapse** — AI-assisted legal document analysis platform
 - **Nexo** — school administration system with auth, schedules, notifications, and cloud rollout
 - **Trew** — active software project in my workspace
+
+### Profile operations playbook
+- Weekly link health checks via GitHub Actions.
+- PR gate validates README profile links before merge.
+- Manual dispatch available for pre-release portfolio checks.
 
 ### Portfolio maintenance protocol
 - Re-validate all repository links monthly.
