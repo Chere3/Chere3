@@ -3,10 +3,11 @@
 Professional profile roadmap for the `Chere3` GitHub profile repository.
 
 ## Quick wins
-- Add a portfolio maintenance protocol (monthly checks for stale links/repos).
+- [x] Define cross-repo professionalism standards document.
+- [x] Add a portfolio maintenance protocol (monthly checks for stale links/repos).
 - Standardize featured project section (problem, impact, stack, status).
 - Add contribution/update process for profile refreshes.
-- Add explicit contact/collaboration section.
+- [x] Add explicit contact/collaboration section.
 
 ## Medium
 - Add metrics snapshots (stars, shipped releases, active PR cadence) refreshed monthly.
